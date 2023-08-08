@@ -2,6 +2,9 @@
 
 # Huje22 Sezon 8
 
+**Ten sezon pobierzesz tutaj:**
+https://www.mediafire.com/folder/4xy25jqyt0odd/Sezon+8
+
 Wszystkie dostępne sezony znajdziesz [tutaj](https://github.com/Huje22/Sezony)
 
 </div>
