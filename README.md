@@ -1,12 +1,12 @@
 # Sezony
 
-* [Sezon 1](https://github.com/Huje22/Sezony/tree/main/Sezon%201-4) ⟩ 12.01.2020 - 25.01.2020
+* [Sezon 1](Sezon%201-4) ⟩ 12.01.2020 - 25.01.2020
     * Bedrock (Realms)
-* Sezon 2 ⟩ 25.01.2020 - xx.xx.2020
+* [Sezon 2](Sezon%201-4) ⟩ 25.01.2020 - xx.xx.2020
     * Bedrock (Realms)
-* Sezon 3 ⟩ xx.xx.2020 - xx.xx.2020
+* [Sezon 3](Sezon%201-4) ⟩ xx.xx.2020 - xx.xx.2020
     * Bedrock (Realms)
-* Sezon 4 ⟩ xx.xx.2020 - xx.xx.2020
+* [Sezon 4](Sezon%201-4) ⟩ xx.xx.2020 - xx.xx.2020
     * Bedrock (Realms)
 * Sezon 5 ⟩ 19.01.2022 - 13.02.2022 00:34
     * Bedrock & Java
