@@ -3,7 +3,7 @@
 # Huje22 Sezon 9
 
 **Ten sezon pobierzesz tutaj:**
-https://www.mediafire.com/folder/y0dvq9h044f3j/Sezon+9
+https://github.com/Huje22/Sezony/tree/main/Sezon%209
 
 Wszystkie dostępne sezony znajdziesz [tutaj](https://github.com/Huje22/Sezony)
 
