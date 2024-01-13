@@ -17,4 +17,6 @@
 * [Sezon 8](https://github.com/Huje22/Sezony/tree/main/Sezon%208) ⟩ 12.07.2023 - 08.08.2023
     * Bedrock 
 * [Sezon 9](https://github.com/Huje22/Sezony/tree/main/Sezon%209)  ⟩ 11.10.2023 20:12 - 8.12.2023 16:57
-    * Bedrock 
+    * Bedrock
+* Sezon 10 ⟩ 12.01.2024 23:49 - xx.xx.xxxx
+      
