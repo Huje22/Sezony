@@ -19,4 +19,5 @@
 * [Sezon 9](https://github.com/Huje22/Sezony/tree/main/Sezon%209)  ⟩ 11.10.2023 20:12 - 8.12.2023 16:57
     * Bedrock
 * Sezon 10 ⟩ 12.01.2024 23:43 - xx.xx.xxxx
+    * Bedrock
       
