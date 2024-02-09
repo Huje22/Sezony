@@ -11,13 +11,12 @@
 * Sezon 5 ⟩ 19.01.2022 - 13.02.2022 00:34
     * Bedrock & Java
 * Sezon 6 ⟩ 20.03.2022 16:47 - 17.04.2022 21:48
-    * Bedrock 
+    * Bedrock
 * Sezon 7 ⟩ 29.12.2022 - 28.01.2023
     * Bedrock & Java
-* [Sezon 8](https://github.com/Huje22/Sezony/tree/main/Sezon%208) ⟩ 12.07.2023 - 08.08.2023
-    * Bedrock 
-* [Sezon 9](https://github.com/Huje22/Sezony/tree/main/Sezon%209)  ⟩ 11.10.2023 20:12 - 8.12.2023 16:57
+* [Sezon 8](Sezon%208) ⟩ 12.07.2023 - 08.08.2023
     * Bedrock
-* Sezon 10 ⟩ 12.01.2024 23:43 - xx.xx.xxxx
+* [Sezon 9](Sezon%209) ⟩ 11.10.2023 20:12 - 8.12.2023 16:57
     * Bedrock
-      
+* [Sezon 10](Sezon%2010) ⟩ 12.01.2024 23:43 - 09.02.2024 17:10
+    * Bedrock
