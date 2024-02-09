@@ -1,0 +1,1 @@
+W tym katalogu znajdziesz rozszerzenia dla `BDS-Auto-Enable` , które są w wczesnej fazie beta , więc mogą się bagować
