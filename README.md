@@ -22,3 +22,6 @@
     * Bedrock
 * [Sezon 11](Sezon%2011) ⟩ 04.05.2024 17:00 - 07.06.2024 20:10
   * Bedrock
+* [Sezon 12](Sezon%2012) ⟩ 06.08.2024 16:00 - 
+  * Bedrock
+
