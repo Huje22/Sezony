@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7baa8eb5-2d02-43d9-969b-f1ad4a645f6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sezon 10/Rozserzenia/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 10/Rozserzenia/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sezon 12/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 10/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 10/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 10/download.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 11/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 11/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 11/download.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 12/download.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 8/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 9/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/Sezon 9/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sezon 9/download.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +22,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IndianBartonka"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Huje22/Sezony.git",
+    "accountId": "a4fa88d4-6155-4639-909c-6322202dc4bf"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2c8aqm2FbVF3FvcPWsIS5F0DOch" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,16 +53,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/g.IT/IdeaProjects/Sezony/Sezon 10/Screeny"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Barto/IdeaProjects/Sezony"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Barto\IdeaProjects\Sezony" />
       <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 10\Screeny" />
       <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 9\Screeny" />
       <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 1-4\Screeny" />
       <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 8" />
-      <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\g.IT\IdeaProjects\Sezony\Sezon 1-4\Screeny" />

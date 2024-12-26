@@ -2,8 +2,7 @@
 
 # Huje22 Sezon 9
 
-**Ten sezon pobierzesz tutaj:**
-[download.md](download.md)
+**Ten sezon pobierzesz [Tutaj](https://www.mediafire.com/folder/twjquzh30r3f1/Huje22+Sezony)**
 
 Wszystkie dostępne sezony znajdziesz [tutaj](https://github.com/Huje22/Sezony)
 
