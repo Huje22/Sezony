@@ -1,0 +1,220 @@
+{
+  "00000000-0000-0000-0009-01f6c79ff3a3": [
+    {
+      "name": "dom",
+      "hujeLocation": {
+        "x": -2711.0,
+        "y": 87.0,
+        "z": -9444.0,
+        "world": "world"
+      }
+    }
+  ],
+  "00000000-0000-0000-0009-01f99c149fb2": [
+    {
+      "name": "1",
+      "hujeLocation": {
+        "x": -846.0,
+        "y": 78.0,
+        "z": 201.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "2",
+      "hujeLocation": {
+        "x": -649.0,
+        "y": 25.0,
+        "z": 362.0,
+        "world": "world"
+      }
+    }
+  ],
+  "a7e32126-9ae1-4e13-bdce-8e0745f1a1f4": [
+    {
+      "name": "3",
+      "hujeLocation": {
+        "x": -2707.0,
+        "y": 65.0,
+        "z": 8950.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "1",
+      "hujeLocation": {
+        "x": -1821.0,
+        "y": 63.0,
+        "z": 7102.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "2",
+      "hujeLocation": {
+        "x": 1381.0,
+        "y": 120.0,
+        "z": 9727.0,
+        "world": "world"
+      }
+    }
+  ],
+  "15bda4c6-e3f7-4b3a-a96d-97b15a605d4c": [
+    {
+      "name": "baza",
+      "hujeLocation": {
+        "x": 1382.0,
+        "y": 120.0,
+        "z": 9723.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "blaze",
+      "hujeLocation": {
+        "x": 157.0,
+        "y": 58.0,
+        "z": 1483.0,
+        "world": "world_nether"
+      }
+    },
+    {
+      "name": "exp",
+      "hujeLocation": {
+        "x": 9279.0,
+        "y": 83.0,
+        "z": -6311.0,
+        "world": "world_nether"
+      }
+    }
+  ],
+  "a07b47e7-2fad-4762-aee1-17ae125f1c30": [
+    {
+      "name": "polana",
+      "hujeLocation": {
+        "x": -8042.0,
+        "y": 66.0,
+        "z": -5805.0,
+        "world": "world"
+      }
+    }
+  ],
+  "21c05cf7-3fe2-48e1-a62b-0fa8c6c49a6b": [
+    {
+      "name": "dom",
+      "hujeLocation": {
+        "x": 1477.0,
+        "y": 76.0,
+        "z": 9761.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "portal",
+      "hujeLocation": {
+        "x": -1069.0,
+        "y": 23.0,
+        "z": 881.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "pigliny",
+      "hujeLocation": {
+        "x": -2854.0,
+        "y": 97.0,
+        "z": -8547.0,
+        "world": "world_nether"
+      }
+    }
+  ],
+  "00000000-0000-0000-0009-01f47247ff65": [
+    {
+      "name": "d",
+      "hujeLocation": {
+        "x": -641.0,
+        "y": 41.0,
+        "z": 360.0,
+        "world": "world"
+      }
+    }
+  ],
+  "00000000-0000-0000-0009-01fd1e961d8a": [
+    {
+      "name": "sewcio",
+      "hujeLocation": {
+        "x": -7044.0,
+        "y": 66.0,
+        "z": -9418.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "sewcio1",
+      "hujeLocation": {
+        "x": -620.0,
+        "y": 69.0,
+        "z": -1407.0,
+        "world": "world_nether"
+      }
+    },
+    {
+      "name": "sewcio2",
+      "hujeLocation": {
+        "x": -1070.0,
+        "y": 24.0,
+        "z": 877.0,
+        "world": "world"
+      }
+    }
+  ],
+  "00000000-0000-0000-0009-01f1aa2dd0b7": [
+    {
+      "name": "1",
+      "hujeLocation": {
+        "x": -848.0,
+        "y": 73.0,
+        "z": 197.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "2",
+      "hujeLocation": {
+        "x": -647.0,
+        "y": 25.0,
+        "z": 357.0,
+        "world": "world"
+      }
+    }
+  ],
+  "4b95e5e7-4b4b-47c0-94b8-6bc42fa0a5d4": [
+    {
+      "name": "domek",
+      "hujeLocation": {
+        "x": 1384.0,
+        "y": 120.0,
+        "z": 9725.0,
+        "world": "world"
+      }
+    },
+    {
+      "name": "ex",
+      "hujeLocation": {
+        "x": 158.0,
+        "y": 58.0,
+        "z": 1485.0,
+        "world": "world_nether"
+      }
+    },
+    {
+      "name": "xd",
+      "hujeLocation": {
+        "x": 2902.0,
+        "y": -10.0,
+        "z": 9520.0,
+        "world": "world"
+      }
+    }
+  ]
+}

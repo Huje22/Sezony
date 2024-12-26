@@ -2,7 +2,9 @@
 
 # Huje22 Sezon 13
 
-Server był na Minecraft Java edition (1.21.3) z `GeyserMC` i do generowania świata został użyty https://www.spigotmc.org/resources/75132/
+Server był na Minecraft Java edition (1.21.3) z `GeyserMC` i do generowania świata został użyty https://www.spigotmc.org/resources/75132/<br>
+
+Znajdziesz tu też liste domów w Json<br>
 
 **Ten sezon pobierzesz [Tutaj](https://www.mediafire.com/folder/twjquzh30r3f1/Huje22+Sezony)**
 
