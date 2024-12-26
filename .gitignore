@@ -1,0 +1,15 @@
+##############################
+## IntelliJ
+##############################
+out/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/compiler.xml
+.idea/vcs.xml
